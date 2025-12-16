@@ -51,10 +51,8 @@ I enjoy building applications as well as analyzing data to generate meaningful i
 </p>
 
 ##
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adventaa&show_icons=true)
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adventaa&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adventaa&layout=compact&theme=github_dark)
 
 <!--
 **adventaa/adventaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
