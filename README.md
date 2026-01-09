@@ -1,7 +1,6 @@
 ## Hi there 👋, I'm Adventa
 
-💻 Programmer | 📊 Data Enthusiast  
-🎓 Informatics Graduate
+🎓 Informatics Graduate | 💻 Entry-Level Programmer | 📊 Data Enthusiast  
 
 ## 🚀 About Me
 I am passionate about **programming and data processing**.  
